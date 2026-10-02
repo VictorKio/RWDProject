@@ -1,0 +1,18 @@
+to start git in your project,
+you first type the command git init
+immediately you type git init, git is 
+initialized in that current folder or directory
+afterwards you type git status to always find or
+know the progress of your project, to find out
+whether the your files are tracked or untracked,
+the next step is to use the command git add
+to add your files one by one using git add and 
+the specific name of file or you just type 
+git add . to add every single file in you 
+root directory, afterwards you type the git 
+command git commit -m "message" to add a heading
+that goes along with the tracked file at that 
+moment, if it is you first time hosting the 
+project to github, you make use of the command
+git remote add origin(name can change) http path,
+afterwards you type git push -u origin main
