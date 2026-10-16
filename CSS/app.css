@@ -116,6 +116,10 @@ nav{
         gap: 60px;
     }
 
+    .links .show{
+        display: flex;
+    }
+
     .hamburger-menu{
         display: block;
         position: absolute;
