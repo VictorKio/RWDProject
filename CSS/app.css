@@ -116,7 +116,7 @@ nav{
         gap: 60px;
     }
 
-    .links .show{
+    .links.show{
         display: flex;
     }
 
